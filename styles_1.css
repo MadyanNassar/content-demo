@@ -1,0 +1,13 @@
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.15;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  section {
+    display: block;
+  }
